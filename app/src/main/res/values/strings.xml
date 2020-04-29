@@ -1,10 +1,9 @@
 <resources>
     <string name="app_name">Calender</string>
-    <string name="set_date">Set the date</string>
-    <string name="title_meeting_activity"> Meeting</string>
-    <string name="title_edit_meeting_activity">Edit Meeting</string>
-    <string name="title_add_meeting_activity">Add Meeting</string>
-    <string name="title_main_activity">This is a Calender</string>
+    <string name="title_meeting_activity"> 일정</string>
+    <string name="title_edit_meeting_activity">일정 추가</string>
+    <string name="title_add_meeting_activity">일정 추가</string>
+    <string name="title_main_activity">Calender</string>
     <string name="title_mass_removal_activity">Remove</string>
     <string name="title_edit">Edit</string>
     <string name="title_edit_done">Done</string>
